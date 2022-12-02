@@ -1,0 +1,26 @@
+1655128681470	geckodriver	INFO	Listening on 127.0.0.1:55103
+1655128684509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\teguh\\AppData\\Local\\Temp\\rust_mozprofilerpeL5v"
+1655128684683	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55104
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\teguh\\AppData\\Local\\Temp\\rust_mozprofilerpeL5v\\search.json.mozlz4", (void 0)))
+1655128685915	Marionette	INFO	Listening on port 55123
+Read port: 55123
+1655128685939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:55104/devtools/browser/28cb0c14-7340-4f26-bbc0-9ebdb4a7daa2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yP/l/en_GB/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655128694182	Marionette	INFO	Stopped listening on port 55123
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655128729812	geckodriver	INFO	Listening on 127.0.0.1:55162
+1655128732827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\teguh\\AppData\\Local\\Temp\\rust_mozprofileEfZl1i"
+1655128732990	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55163
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\teguh\\AppData\\Local\\Temp\\rust_mozprofileEfZl1i\\search.json.mozlz4", (void 0)))
+1655128734055	Marionette	INFO	Listening on port 55183
+DevTools listening on ws://localhost:55163/devtools/browser/b33788b0-ea68-46d3-aa1e-e32a8f4c2f5a
+Read port: 55183
+1655128734144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yP/l/en_GB/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1655128747366	Marionette	INFO	Stopped listening on port 55183
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
